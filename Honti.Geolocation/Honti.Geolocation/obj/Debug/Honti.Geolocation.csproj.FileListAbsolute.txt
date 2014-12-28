@@ -1,0 +1,5 @@
+F:\OneDrive\Work\GitHub\CSharp_Geolocation\Honti.Geolocation\Honti.Geolocation\bin\Debug\Honti.Geolocation.dll
+F:\OneDrive\Work\GitHub\CSharp_Geolocation\Honti.Geolocation\Honti.Geolocation\bin\Debug\Honti.Geolocation.pdb
+F:\OneDrive\Work\GitHub\CSharp_Geolocation\Honti.Geolocation\Honti.Geolocation\obj\Debug\Honti.Geolocation.csprojResolveAssemblyReference.cache
+F:\OneDrive\Work\GitHub\CSharp_Geolocation\Honti.Geolocation\Honti.Geolocation\obj\Debug\Honti.Geolocation.dll
+F:\OneDrive\Work\GitHub\CSharp_Geolocation\Honti.Geolocation\Honti.Geolocation\obj\Debug\Honti.Geolocation.pdb
